@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Wheels (Left & Right) -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M36,83 h8 v8 h-8 z M64,83 h8 v8 h-8 z" />
+
+    <!-- Bus Main Body (School/College Bus Yellow) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M36,45 h36 c3.31,0 6,2.69 6,6 v28 c0,2.21 -1.79,4 -4,4 h-40 c-2.21,0 -4,-1.79 -4,-4 v-28 c0,-3.31 2.69,-6 6,-6 z" />
+
+    <!-- Windshield (Dark Slate Glass) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M35,51 h38 v14 h-38 z" />
+
+    <!-- Left & Right Mirrors -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M27,51 h3 v8 h-3 z M78,51 h3 v8 h-3 z" />
+
+    <!-- Bumper / Grill Accent -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M42,75 h24 v3 h-24 z" />
+
+    <!-- Headlights (Glowing White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,73 a3,3 0 1 0 6,0 a3,3 0 1 0 -6,0 M66,73 a3,3 0 1 0 6,0 a3,3 0 1 0 -6,0" />
+
+    <!-- GPS Location Pin (Vibrant Cyan) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,39 c-1.5,0 -4.5,-4.5 -4.5,-7 c0,-2.5 2,-4.5 4.5,-4.5 s4.5,2 4.5,4.5 c0,2.5 -3,7 -4.5,7 z" />
+
+    <!-- GPS Pin Inner Dot (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30.5 a1.5,1.5 0 1 0 0.001,-3.001 a1.5,1.5 0 1 0 -0.001,3.001" />
+
+</vector>

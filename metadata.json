@@ -1,0 +1,6 @@
+{
+  "name": "Smart College Bus Live Tracking",
+  "description": "College bus tracking app with real-time GPS tracking, AI Assistant, notifications, and secure user profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
